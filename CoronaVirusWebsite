@@ -1,0 +1,42 @@
+
+<head>
+<style>
+header h1 { 
+	background: transparent url(http://csszengarden.com/001/h1.gif) no-repeat top left;
+	margin-top: 10px;
+	display: block;
+	width: 219px;
+	height: 87px;
+	float: left;
+
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+</style>
+</head>
+
+<h1>Coronavirus Website!!!!!! O. O!!!!</h1>
+
+      <table>
+            <thead>
+                <tr>
+                    <th>Reasons to go back</th>
+                    <th>Reasons to stay quarantined</th>
+                </tr>
+            </thead>
+            <tbody>
+              <tr>
+                  <td> Economy crash</td>
+                  <td>Ensures safety for public health </td>
+              </tr> 
+              <tr>
+                  <td> Weakened the immunity system</td>
+                  <td> Doesn't overwhelm hospitals</td>
+              </tr> 
+              <tr>
+
+            </tr>
+            </tbody>
+        </table>
+
